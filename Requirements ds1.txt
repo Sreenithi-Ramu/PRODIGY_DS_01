@@ -1,0 +1,38 @@
+1. Python (Programming Language)
+Version: Python 3.x (ideally Python 3.7 or later)
+Most libraries used in data analysis and visualization are compatible with Python 3.x.
+
+2. Libraries and Tools
+a. pandas
+Purpose: Used for data manipulation and analysis. It helps in reading CSV files, cleaning data, and performing operations like filtering, grouping, and summarizing.
+pip install pandas
+
+b. matplotlib
+Purpose: A popular plotting library used to create visualizations, such as bar graphs, line charts, and histograms.
+pip install matplotlib
+
+c. seaborn
+Purpose: Built on top of matplotlib, it provides a high-level interface for drawing attractive statistical graphics.
+pip install seaborn
+
+d. numpy
+Purpose: Used for numerical operations. You may need it for any operations related to arrays or advanced math functions.
+pip install numpy
+
+
+3. Environment Setup
+IDE/Editor: You can use any Python environment for coding. Here are some popular choices:
+Google Colab: You’re already using Colab, which is excellent for notebooks and data analysis without installation.
+Jupyter Notebook: Great for Python-based data analysis and visualization (you can run it locally or on cloud platforms).
+
+4. Dataset
+World Bank Data: You’ll need to download the population dataset (CSV file or Excel) from the World Bank's World Development Indicators. 
+
+5. Git & GitHub 
+Git:  version-control your code and data (or share it on GitHub).
+GitHub Account: need an account on GitHub to upload and share your code.
+
+6. System Requirements
+Operating System: Should work on most operating systems (Windows, macOS, Linux).
+RAM: For small to medium datasets (such as population data), you’ll need at least 4GB of RAM, but 8GB or more is ideal for smoother performance.
+Disk Space: Ensure you have enough space for storing data files, notebooks, and any related documents (a few GBs).
